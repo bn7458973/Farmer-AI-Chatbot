@@ -1,8 +1,6 @@
 # Farmer-AI-Chatbot
 A comprehensive AI-powered chatbot for farmers featuring plant disease detection through computer vision, voice-based queries via ASR, multilingual translation, and intelligent Q&amp;A using RAG and LLM technologies. Built with web and desktop interfaces, supporting farmers with crop health analysis and agricultural knowledge
 
-
-
 Farmer AI Advisor - Multilingual Voice Chatbot
 
 A friendly, intelligent AI chatbot that helps farmers with agriculture advice in Tamil, English, and Telugu.
