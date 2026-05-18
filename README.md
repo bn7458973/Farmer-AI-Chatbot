@@ -118,5 +118,5 @@ Future Improvements:
 - Enhanced crop disease image recognition with trained models
 - Integration with local agricultural extension services
 
-License: Open source
-Support: For issues or feature requests, please contact the development team.
+
+
