@@ -117,6 +117,3 @@ Future Improvements:
 - Integration with weather APIs
 - Enhanced crop disease image recognition with trained models
 - Integration with local agricultural extension services
-
-
-
