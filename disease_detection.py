@@ -418,3 +418,5 @@ def mock_disease_detection(image_path):
         )
     except Exception as e:
         return {'error': f'Mock processing error: {str(e)}'}
+
+
